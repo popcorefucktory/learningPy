@@ -26,4 +26,4 @@ print(Number1)                  # печатаем число
 Number2 = ComplexNumber(13, 17)
 print(Number1 + Number2)
 print(Number1.getConjugate())
-print(abs(Number1))
+print(abs(ComplexNumber(4, -29)))
