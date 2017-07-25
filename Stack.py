@@ -20,3 +20,4 @@ def balanced(astr):
 
 
 print(balanced("fdhjh(dfd[3({)}(]{er}{er}df{er}(34)7)"))
+print(balanced("(f)"))
